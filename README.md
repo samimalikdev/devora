@@ -480,7 +480,7 @@ Implementation highlights:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/samimalikdev/Devora.git
+git clone https://github.com/samimalikdev/devora.git
 
 cd devora
 ```
